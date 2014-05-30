@@ -1,0 +1,97 @@
+140227_112521: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg hlt_wxie.cfg
+140227_114252: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg hlt_wxie.cfg
+140227_114621: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_hlt_wxie
+140227_120744: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie/
+140227_121301: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 501-1000 -c crab_hlt_wxie
+140227_121401: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1001-1500 -c crab_hlt_wxie
+140227_121501: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1501-2000 -c crab_hlt_wxie
+140227_121613: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2001-2500 -c crab_hlt_wxie
+140227_121713: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2501-3000 -c crab_hlt_wxie
+140227_121825: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3001-3500 -c crab_hlt_wxie
+140227_121930: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3501-4000 -c crab_hlt_wxie
+140227_122042: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4001-4500 -c crab_hlt_wxie
+140227_122150: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4501-5000 -c crab_hlt_wxie
+140227_150052: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140227_150212: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140227_150236: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140227_171850: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140227_172015: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140227_172118: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140228_103121: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140228_103329: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140228_104108: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140228_164808: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140228_164959: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140228_165035: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140303_101329: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140303_101540: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140303_101710: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140303_140150: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140303_140336: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140303_140345: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140303_164345: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140303_164528: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140303_164535: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140304_095154: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140304_095341: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140304_095419: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140304_100043: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3682 -c crab_hlt_wxie
+140304_100122: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3682 -c crab_hlt_wxie
+140304_100127: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3683 -c crab_hlt_wxie
+140304_100130: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3684 -c crab_hlt_wxie
+140304_100134: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3685 -c crab_hlt_wxie
+140304_100137: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3686 -c crab_hlt_wxie
+140304_100140: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3687 -c crab_hlt_wxie
+140304_100144: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3688 -c crab_hlt_wxie
+140304_100147: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3689 -c crab_hlt_wxie
+140304_100150: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3690 -c crab_hlt_wxie
+140304_100154: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3691 -c crab_hlt_wxie
+140304_100157: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3692 -c crab_hlt_wxie
+140304_100201: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 3693 -c crab_hlt_wxie
+140304_100204: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 4441 -c crab_hlt_wxie
+140304_100207: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 4442 -c crab_hlt_wxie
+140304_100210: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 4443 -c crab_hlt_wxie
+140304_100213: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 4444 -c crab_hlt_wxie
+140304_100216: /grp/cms/crab/CRAB_2_10_3/python/crab.py -kill 4445 -c crab_hlt_wxie
+140304_100219: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3682 -c crab_hlt_wxie
+140304_100231: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3683 -c crab_hlt_wxie
+140304_100242: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3684 -c crab_hlt_wxie
+140304_100254: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3685 -c crab_hlt_wxie
+140304_100305: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3686 -c crab_hlt_wxie
+140304_100317: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3687 -c crab_hlt_wxie
+140304_100328: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3688 -c crab_hlt_wxie
+140304_100340: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3689 -c crab_hlt_wxie
+140304_100351: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3690 -c crab_hlt_wxie
+140304_100403: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3691 -c crab_hlt_wxie
+140304_100415: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3692 -c crab_hlt_wxie
+140304_100426: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3693 -c crab_hlt_wxie
+140304_100438: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4441 -c crab_hlt_wxie
+140304_100450: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4442 -c crab_hlt_wxie
+140304_100502: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4443 -c crab_hlt_wxie
+140304_100513: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4444 -c crab_hlt_wxie
+140304_100525: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 4445 -c crab_hlt_wxie
+140304_104604: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140304_104742: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140304_104748: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140304_111424: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140304_111605: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140304_111611: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140305_113621: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140305_114011: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140305_114036: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140306_093334: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140306_093523: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140306_093535: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140306_094312: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140306_094928: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140306_094950: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140306_094955: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140306_110655: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140306_110716: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140306_110721: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140306_111327: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140306_111348: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140306_111356: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie
+140306_175606: /grp/cms/crab/CRAB_2_10_3/python/crab.py -status -c crab_hlt_wxie
+140306_175705: /grp/cms/crab/CRAB_2_10_3/python/crab.py -get all -c crab_hlt_wxie
+140306_175711: /grp/cms/crab/CRAB_2_10_3/python/crab.py -resubmit bad -c crab_hlt_wxie

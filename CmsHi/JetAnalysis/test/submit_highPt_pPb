@@ -1,0 +1,49 @@
+crab -create -cfg runHFForest_Sync_1.cfg
+crab -create -cfg runHFForest_Sync_2.cfg
+crab -create -cfg runHFForest_Sync_3.cfg
+crab -create -cfg runHFForest_Sync_4.cfg
+crab -create -cfg runHFForest_Sync_5.cfg
+crab -create -cfg runHFForest_Sync_pPb_misaligned.cfg
+
+crab -submit 1-500     -c crab_HFForest_highPt_crab_pPb_1
+crab -submit 501-1000  -c crab_HFForest_highPt_crab_pPb_1
+crab -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+crab -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+crab -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+crab -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+crab -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+
+crab -submit 1-500     -c crab_HFForest_highPt_crab_pPb_2
+crab -submit 501-1000  -c crab_HFForest_highPt_crab_pPb_2
+crab -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+crab -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+crab -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+
+crab -submit 1-500     -c crab_HFForest_highPt_crab_pPb_3
+crab -submit 501-1000  -c crab_HFForest_highPt_crab_pPb_3
+crab -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+crab -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+
+crab -submit 1-500     -c crab_HFForest_highPt_crab_pPb_4
+crab -submit 501-1000  -c crab_HFForest_highPt_crab_pPb_4
+crab -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+crab -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+crab -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+crab -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+
+crab -submit 1-500     -c crab_HFForest_highPt_crab_pPb_5
+crab -submit 501-1000  -c crab_HFForest_highPt_crab_pPb_5
+crab -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+crab -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+crab -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+
+crab -submit 1-500     -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 501-1000  -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+crab -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned

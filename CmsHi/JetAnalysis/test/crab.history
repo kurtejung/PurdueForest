@@ -1,0 +1,1684 @@
+140317_110454: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill -c crab_HFForest_highPt_crab_pPb_1/
+140317_110504: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill -c crab_HFForest_highPt_crab_pPb_2/
+140317_110506: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill -c crab_HFForest_highPt_crab_pPb_3/
+140317_110508: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill -c crab_HFForest_highPt_crab_pPb_4/
+140317_110510: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill -c crab_HFForest_highPt_crab_pPb_5/
+140317_110521: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill -c crab_HFForest_highPt_crab_pPb_misaligned/
+140317_110608: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_1/
+140317_110612: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_3/
+140317_110615: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_2/
+140317_110625: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_5/
+140317_110628: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_4/
+140317_110630: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_misaligned/
+140317_112941: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_misaligned/
+140317_112942: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_2/
+140317_112943: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_3/
+140317_112944: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_5/
+140317_113437: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_1/
+140317_113438: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_4/
+140317_174656: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_1.cfg
+140317_175103: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_2.cfg
+140317_175349: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_3.cfg
+140317_175631: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_4.cfg
+140317_175932: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_5.cfg
+140317_180254: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_pPb_misaligned.cfg
+140317_180526: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140317_180622: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140317_180710: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140317_180800: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140317_180857: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140317_180948: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140317_181041: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140317_181118: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140318_092130: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140318_092840: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_2.cfg
+140318_093154: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_3.cfg
+140318_093434: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_4.cfg
+140318_093721: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_5.cfg
+140318_094009: /grp/cms/crab/CRAB_2_10_3/python/crab.py -create -cfg runHFForest_Sync_pPb_misaligned.cfg
+140318_094243: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140318_094432: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140318_094521: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140318_094611: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140318_094701: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140318_094742: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140318_095002: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140318_095059: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140318_095143: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140318_095230: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140318_095315: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140318_095401: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140318_095459: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140318_095547: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140318_095635: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140318_095700: /grp/cms/crab/CRAB_2_10_3/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140318_181632: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_1
+140318_190237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_2
+140318_191700: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_3
+140318_193928: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_4
+140318_195937: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_5
+140318_195944: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_102742: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_1
+140319_102807: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_2
+140319_102813: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_3
+140319_102818: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_4
+140319_102824: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_5
+140319_102830: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill all -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_103752: /grp/cms/crab/CRAB_2_10_4/python/crab.py -create -cfg runHFForest_Sync_1.cfg
+140319_104151: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140319_104249: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140319_104345: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140319_104445: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140319_104540: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140319_104638: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140319_104739: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140319_120950: /grp/cms/crab/CRAB_2_10_4/python/crab.py -create -cfg runHFForest_Sync_2.cfg
+140319_121222: /grp/cms/crab/CRAB_2_10_4/python/crab.py -create -cfg runHFForest_Sync_3.cfg
+140319_121452: /grp/cms/crab/CRAB_2_10_4/python/crab.py -create -cfg runHFForest_Sync_4.cfg
+140319_121729: /grp/cms/crab/CRAB_2_10_4/python/crab.py -create -cfg runHFForest_Sync_5.cfg
+140319_122008: /grp/cms/crab/CRAB_2_10_4/python/crab.py -create -cfg runHFForest_Sync_pPb_misaligned.cfg
+140319_122226: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140319_122323: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140319_122412: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140319_122506: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140319_122558: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140319_122632: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140319_122723: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140319_122829: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140319_122911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140319_122949: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140319_123046: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140319_123136: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140319_123247: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140319_123347: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140319_123448: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140319_123516: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140319_123603: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140319_123647: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140319_123740: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140319_123829: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140319_123917: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_125002: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_125254: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_125431: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_125613: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_125722: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_130332: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_130520: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_130651: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_130811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_144426: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140319_144531: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140319_144600: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140319_144615: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140319_144646: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140319_144708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_144827: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140319_144837: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140319_144841: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140319_144845: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140319_144849: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140319_144853: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_144908: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140319_144940: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140319_145008: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140319_145014: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140319_145020: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140319_145026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145125: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140319_145134: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140319_145148: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140319_145155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140319_145204: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140319_145213: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140319_145222: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140319_145229: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140319_145236: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140319_145244: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140319_145251: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140319_145257: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140319_145303: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140319_145308: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140319_145314: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140319_145319: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140319_145325: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140319_145332: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140319_145338: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140319_145345: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140319_145351: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140319_145358: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140319_145404: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140319_145410: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140319_145417: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140319_145424: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140319_145431: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140319_145441: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145453: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145504: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145516: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145533: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145544: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145556: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145610: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145619: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_145629: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_174517: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140319_174624: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140319_174648: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140319_174704: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140319_174741: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140319_174804: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_174948: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140319_175006: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140319_175016: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140319_175021: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140319_175026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140319_175030: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_175419: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140319_175500: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140319_175525: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140319_175531: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140319_175537: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140319_175543: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_175632: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140319_175641: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140319_175649: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140319_175657: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140319_175705: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140319_175712: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140319_175721: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140319_175729: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140319_175736: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140319_175743: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140319_175749: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140319_175756: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140319_175801: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140319_175807: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140319_175813: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140319_175818: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140319_175824: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140319_175831: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140319_175837: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140319_175844: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140319_175850: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140319_175857: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140319_175903: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140319_175910: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140319_175917: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140319_175924: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140319_175931: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140319_175938: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_175955: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180006: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180018: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180028: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180040: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180052: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180103: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180126: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140319_180141: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_092534: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140320_092654: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140320_092731: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140320_092747: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140320_092816: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140320_092837: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_093131: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140320_093327: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140320_093438: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140320_093442: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140320_093446: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140320_093451: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_094843: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140320_102226: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140320_102237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140320_102242: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140320_102354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140320_102431: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140320_102446: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140320_102517: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140320_102541: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_102743: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140320_102759: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140320_103228: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140320_103232: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140320_103237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140320_103242: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_103249: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140320_103327: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140320_103354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140320_103359: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140320_103405: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140320_103411: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_104612: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140320_104622: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140320_104631: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140320_104639: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140320_104647: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140320_104657: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140320_104708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140320_104718: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140320_104724: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140320_104731: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140320_104737: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140320_104744: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140320_104750: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140320_104757: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140320_104803: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140320_104810: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140320_104816: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140320_104824: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140320_104831: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140320_104838: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140320_104845: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140320_104852: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140320_104858: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140320_104905: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140320_104911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140320_104917: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140320_104923: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140320_104930: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_104940: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_104951: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105001: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105012: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105022: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105033: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105044: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105054: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_105105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_154416: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140320_154541: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140320_154636: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140320_154651: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140320_154722: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140320_154746: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_155037: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140320_155122: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140320_155211: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140320_155216: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140320_155220: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140320_155224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_155536: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140320_155630: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140320_155657: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140320_155702: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140320_155708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140320_155713: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_155940: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140320_155949: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140320_155957: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140320_160006: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140320_160015: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140320_160024: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140320_160034: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140320_160044: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140320_160051: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140320_160058: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140320_160104: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140320_160111: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140320_160118: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140320_160125: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140320_160137: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140320_160149: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140320_160159: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140320_160206: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140320_160213: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140320_160220: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140320_160226: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140320_160233: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140320_160240: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140320_160246: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140320_160253: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140320_160259: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140320_160306: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140320_160312: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160323: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160333: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160344: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160405: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160416: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160427: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160437: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140320_160456: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_092545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140321_092707: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140321_092811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140321_092827: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140321_092856: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140321_092919: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_093206: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140321_093311: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140321_093422: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140321_093426: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140321_093431: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140321_093435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_093710: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140321_103748: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140321_103913: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140321_104005: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140321_104023: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140321_104052: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140321_104113: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_104353: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140321_104401: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140321_104418: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140321_104422: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140321_104426: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140321_104430: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_104439: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140321_104445: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140321_104514: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140321_104519: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140321_104524: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140321_104530: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_104639: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140321_104736: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140321_104837: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140321_104939: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140321_104947: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140321_104956: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140321_105003: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140321_105011: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140321_105017: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140321_105023: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140321_105030: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140321_105035: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140321_105042: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140321_105048: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140321_105054: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140321_105100: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140321_105105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140321_105112: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140321_105118: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140321_105125: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140321_105131: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140321_105138: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140321_105145: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140321_105151: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140321_105210: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140321_105216: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140321_105222: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140321_105228: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105239: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105249: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105259: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105309: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105320: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105330: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105341: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105352: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_105404: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_122934: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140321_123049: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140321_123145: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140321_123205: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140321_123233: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140321_123256: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_123537: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140321_123545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140321_123608: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140321_123612: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140321_123616: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140321_123621: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_123630: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140321_123702: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140321_123732: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140321_123738: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140321_123744: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140321_123749: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_123833: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140321_123841: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140321_123849: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140321_123857: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140321_123905: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140321_123913: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140321_123921: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140321_123929: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140321_123935: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140321_123941: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140321_123948: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140321_123954: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140321_124000: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140321_124006: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140321_124012: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140321_124018: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140321_124024: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140321_124030: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140321_124037: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140321_124044: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140321_124051: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140321_124057: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140321_124103: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140321_124110: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140321_124116: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140321_124122: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140321_124128: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140321_124134: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124145: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124205: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124215: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124225: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124236: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124246: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124256: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_124306: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_165742: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140321_165902: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140321_170015: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140321_170034: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140321_170106: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140321_170131: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_170424: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140321_170432: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140321_170503: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140321_170507: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140321_170511: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140321_170515: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_170527: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140321_170559: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140321_170623: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140321_170632: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140321_170638: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140321_170643: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_170731: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140321_170739: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140321_170747: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140321_170755: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140321_170803: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140321_170811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140321_170819: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140321_170826: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140321_170833: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140321_170840: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140321_170848: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140321_170854: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140321_170901: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140321_170907: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140321_170912: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140321_170918: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140321_170924: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140321_170931: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140321_170938: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140321_170945: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140321_170953: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140321_171000: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140321_171007: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140321_171013: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140321_171019: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140321_171026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140321_171033: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140321_171040: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171050: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171101: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171111: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171121: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171133: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171145: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171156: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171207: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140321_171218: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_000549: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140322_000708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140322_000820: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140322_000835: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140322_000903: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140322_000925: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_001105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140322_001210: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140322_001308: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140322_001323: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140322_001351: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140322_001414: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_001706: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140322_001717: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140322_001735: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140322_001739: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140322_001743: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140322_001747: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_001819: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140322_001900: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140322_001924: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140322_001930: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140322_001935: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140322_001941: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002027: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140322_002035: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140322_002043: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140322_002051: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140322_002059: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140322_002107: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140322_002115: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140322_002123: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140322_002129: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140322_002136: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140322_002142: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140322_002149: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140322_002155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140322_002201: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140322_002206: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140322_002212: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140322_002217: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140322_002224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140322_002231: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140322_002237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140322_002244: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140322_002250: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140322_002256: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140322_002303: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140322_002309: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140322_002315: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140322_002322: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140322_002328: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002338: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002348: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002358: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002408: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002418: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002428: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002439: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002449: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_002459: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_090830: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140322_090949: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140322_091113: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140322_091132: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140322_091201: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140322_091224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_091510: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140322_091525: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140322_091554: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140322_091558: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140322_091603: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140322_091607: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_091617: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140322_091625: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140322_091648: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140322_091653: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140322_091659: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140322_091704: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_091712: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140322_091720: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140322_091727: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140322_091735: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140322_091743: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140322_091751: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140322_091759: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140322_091807: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140322_091813: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140322_091819: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140322_091826: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140322_091832: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140322_091839: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140322_091844: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140322_091850: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140322_091856: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140322_091902: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140322_091908: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140322_091915: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140322_091921: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140322_091928: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140322_091935: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140322_091942: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140322_091948: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140322_091954: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140322_092001: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140322_092007: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140322_092013: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092023: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092033: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092043: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092054: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092103: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092113: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092123: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092133: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_092143: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_230704: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140322_230835: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140322_231016: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140322_231035: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140322_231104: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140322_231126: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_231417: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140322_231430: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140322_231524: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140322_231528: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140322_231533: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140322_231537: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_231546: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140322_231624: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140322_231654: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140322_231659: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140322_231704: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140322_231710: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_231717: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140322_231725: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140322_231733: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140322_231741: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140322_231748: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140322_231756: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140322_231804: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140322_231812: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140322_231818: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140322_231825: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140322_231831: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140322_231838: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140322_231844: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140322_231849: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140322_231855: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140322_231901: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140322_231906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140322_231913: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140322_231920: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140322_231926: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140322_231934: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140322_231940: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140322_231946: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140322_231953: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140322_231959: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140322_232005: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140322_232011: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140322_232017: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232027: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232037: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232047: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232057: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232107: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232117: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232127: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232138: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140322_232148: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_095310: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140323_095434: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140323_095619: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140323_095651: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140323_095721: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140323_095742: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_095835: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140323_095905: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140323_095916: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140323_100010: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140323_100015: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140323_100019: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100024: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140323_100103: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140323_100149: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140323_100221: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140323_100227: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140323_100232: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100239: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140323_100247: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140323_100255: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140323_100303: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140323_100311: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140323_100319: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140323_100327: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140323_100334: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140323_100341: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140323_100347: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140323_100353: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140323_100400: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140323_100406: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140323_100411: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140323_100417: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140323_100423: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140323_100428: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140323_100435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140323_100441: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140323_100448: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140323_100454: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140323_100501: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140323_100507: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140323_100513: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140323_100520: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140323_100526: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140323_100532: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140323_100538: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100548: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100558: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100608: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100618: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100628: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100638: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100648: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100658: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_100708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_152544: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140323_152724: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140323_152845: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140323_152911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140323_152939: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140323_153001: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153054: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140323_153116: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140323_153123: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140323_153201: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140323_153205: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140323_153209: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153215: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140323_153250: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140323_153313: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140323_153338: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140323_153344: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140323_153349: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153357: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140323_153405: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140323_153413: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140323_153421: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140323_153429: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140323_153437: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140323_153445: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140323_153452: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140323_153459: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140323_153506: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140323_153513: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140323_153519: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140323_153526: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140323_153532: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140323_153537: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140323_153543: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140323_153548: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140323_153555: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140323_153602: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140323_153609: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140323_153615: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140323_153622: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140323_153628: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140323_153635: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140323_153641: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140323_153647: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140323_153653: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140323_153659: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153710: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153720: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153730: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153740: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153750: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153800: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153810: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153820: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140323_153830: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_000237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140324_000430: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140324_000551: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140324_000630: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140324_000658: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140324_000720: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_000812: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140324_000908: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140324_000914: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140324_001031: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140324_001037: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140324_001041: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001049: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140324_001154: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140324_001222: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140324_001302: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140324_001308: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140324_001314: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001321: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140324_001329: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140324_001338: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140324_001347: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140324_001355: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140324_001404: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140324_001413: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140324_001424: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140324_001430: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140324_001436: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140324_001442: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140324_001449: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140324_001455: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140324_001501: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140324_001507: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140324_001513: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140324_001518: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140324_001525: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140324_001532: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140324_001539: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140324_001545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140324_001552: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140324_001558: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140324_001604: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140324_001611: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140324_001618: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140324_001624: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140324_001631: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001641: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001651: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001701: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001712: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001722: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001732: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001743: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001753: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_001803: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_094003: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140324_094132: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140324_094244: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140324_094326: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140324_094354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140324_094416: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_094509: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140324_094537: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140324_094541: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140324_094620: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140324_094625: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140324_094628: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_094634: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140324_094714: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140324_094720: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140324_094744: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140324_094750: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140324_094756: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_094803: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140324_094811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140324_094820: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140324_094828: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140324_094836: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140324_094844: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140324_094852: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140324_094900: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140324_094906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140324_094912: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140324_094919: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140324_094925: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140324_094931: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140324_094937: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140324_094943: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140324_094950: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140324_094956: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140324_095002: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140324_095009: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140324_095016: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140324_095023: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140324_095029: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140324_095036: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140324_095043: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140324_095049: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140324_095056: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140324_095102: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140324_095108: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095118: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095128: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095138: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095148: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095158: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095208: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095219: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095229: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_095239: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_123021: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140324_123155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140324_123256: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140324_123334: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140324_123401: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140324_123422: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_123515: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140324_123531: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140324_123535: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140324_123547: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140324_123552: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140324_123556: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_123601: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140324_123636: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140324_123642: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140324_123702: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140324_123708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140324_123713: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_123721: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140324_123729: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140324_123737: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140324_123745: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140324_123753: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140324_123801: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140324_123809: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140324_123817: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140324_123823: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140324_123829: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140324_123836: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140324_123842: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140324_123849: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140324_123854: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140324_123900: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140324_123906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140324_123911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140324_123918: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140324_123924: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140324_123931: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140324_123937: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140324_123944: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140324_123951: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140324_123957: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140324_124004: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140324_124011: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140324_124017: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140324_124023: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124033: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124043: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124054: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124104: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124114: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124124: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124134: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124144: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_124155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_161118: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140324_161253: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140324_161400: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140324_161444: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140324_161514: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140324_161535: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_161629: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140324_161642: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140324_161646: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140324_161701: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140324_161705: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140324_161710: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_161715: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140324_161749: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140324_161755: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140324_161815: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140324_161821: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140324_161826: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_161834: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140324_161842: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140324_161850: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140324_161858: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140324_161906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140324_161914: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140324_161922: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140324_161930: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140324_161936: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140324_161942: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140324_161949: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140324_161956: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140324_162002: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140324_162008: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140324_162014: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140324_162020: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140324_162026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140324_162033: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140324_162040: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140324_162048: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140324_162054: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140324_162102: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140324_162108: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140324_162114: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140324_162121: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140324_162128: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140324_162134: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140324_162141: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162151: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162203: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162214: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162235: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162245: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162255: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162306: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_162316: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_225501: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140324_225644: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140324_225800: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140324_225845: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140324_225914: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140324_225936: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230032: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140324_230102: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140324_230109: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140324_230157: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140324_230203: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140324_230208: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230214: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140324_230250: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140324_230255: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140324_230317: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140324_230324: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140324_230329: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230337: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140324_230345: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140324_230354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140324_230403: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140324_230411: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140324_230420: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140324_230428: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140324_230437: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140324_230446: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140324_230454: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140324_230500: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140324_230508: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140324_230515: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140324_230521: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140324_230528: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140324_230535: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140324_230541: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140324_230547: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140324_230554: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140324_230600: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140324_230607: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140324_230614: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140324_230620: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140324_230627: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140324_230633: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140324_230640: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140324_230646: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140324_230652: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230702: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230713: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230723: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230733: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230744: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230754: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230804: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230814: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140324_230824: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_091752: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140325_091940: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140325_092051: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140325_092147: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140325_092216: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140325_092237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_092331: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140325_092402: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140325_092406: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140325_092435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140325_092439: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140325_092443: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_092449: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140325_210253: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140325_210442: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140325_210543: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140325_210633: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140325_210701: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140325_210724: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_210817: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140325_210859: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140325_210903: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140325_210935: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140325_210939: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140325_210945: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_210951: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140325_211030: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140325_211036: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140325_211058: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140325_211109: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140325_211133: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211141: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_1
+140325_211149: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_1
+140325_211157: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_1
+140325_211205: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_1
+140325_211213: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_1
+140325_211221: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_1
+140325_211228: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_1
+140325_211236: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_2
+140325_211243: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_2
+140325_211249: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_2
+140325_211256: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_2
+140325_211302: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_2
+140325_211308: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140325_211314: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_3
+140325_211320: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_3
+140325_211325: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_3
+140325_211331: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140325_211337: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140325_211344: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140325_211351: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140325_211357: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140325_211404: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140325_211410: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140325_211416: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_5
+140325_211423: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140325_211429: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_5
+140325_211435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_5
+140325_211442: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211452: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211502: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211511: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211521: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211531: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211542: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3001-3500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211552: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 3501-4000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211602: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4001-4500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_211612: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 4501-5000 -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_222927: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140325_223102: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140325_223204: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140325_223239: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140325_223307: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140325_223329: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_223421: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140325_223434: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140325_223438: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140325_223450: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140325_223455: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140325_223501: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140325_223506: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140325_223539: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140325_223545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140325_223549: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140325_223555: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140325_223617: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140326_093406: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140326_093838: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140326_093945: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140326_094026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140326_094055: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140326_094136: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140326_094229: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140326_094344: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140326_094348: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140326_094405: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140326_094411: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140326_094600: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140326_094606: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140326_094640: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140326_094645: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140326_094650: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140326_094715: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140326_094738: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140326_200800: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140326_201000: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140326_201105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140326_201144: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140326_201224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140326_201312: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140326_201406: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140326_201426: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140326_201430: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140326_201435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140326_201728: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140326_202011: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140326_202016: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140326_202100: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140326_202105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140326_202110: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140326_202123: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140326_202134: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_113130: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140327_113925: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140327_114039: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140327_114119: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140327_114209: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140327_114315: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_114412: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140327_114419: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140327_114424: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140327_114430: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140327_114601: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140327_114650: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_114657: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140327_114705: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140327_114712: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140327_114718: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140327_114756: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140327_114832: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_120326: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_5
+140327_122355: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_122425: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_4
+140327_122505: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1-500 -c crab_HFForest_highPt_crab_pPb_3
+140327_122532: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 501-1000 -c crab_HFForest_highPt_crab_pPb_4
+140327_123004: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_4
+140327_124305: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-2000 -c crab_HFForest_highPt_crab_pPb_4
+140327_124324: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2001-2500 -c crab_HFForest_highPt_crab_pPb_4
+140327_124333: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2501-3000 -c crab_HFForest_highPt_crab_pPb_4
+140327_172041: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140327_172231: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140327_172409: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140327_172445: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140327_172529: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140327_172623: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_172716: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140327_172728: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140327_172734: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140327_172738: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140327_172757: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140327_172808: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140327_172814: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140327_172848: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140327_172912: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140327_172917: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140327_172923: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140327_172928: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_000438: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140328_000621: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140328_000754: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140328_000832: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140328_000902: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140328_001032: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140328_001135: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140328_001212: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140328_001252: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140328_001347: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_001441: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140328_001506: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140328_001519: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140328_001526: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140328_001530: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140328_001536: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_001542: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140328_001615: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140328_001641: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140328_001647: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140328_001652: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140328_001658: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_004240: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140328_004429: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140328_004540: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140328_004616: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140328_004655: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140328_004730: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_004823: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140328_004831: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140328_004837: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140328_004841: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140328_004845: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140328_004849: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_004854: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140328_004901: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140328_004906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140328_004911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140328_004916: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140328_004922: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_093637: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140328_093832: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140328_094007: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140328_094047: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140328_094128: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140328_094206: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_094306: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140328_094441: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140328_094549: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140328_094629: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140328_094708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140328_094752: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_094846: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140328_094951: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140328_095022: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140328_095026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140328_095030: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140328_095034: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_095040: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140328_095046: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140328_095051: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140328_095057: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140328_095102: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140328_095108: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_100915: /grp/cms/crab/CRAB_2_10_4/python/crab.py -uploadLog 1245 -c crab_HFForest_highPt_crab_pPb_5
+140328_101401: /grp/cms/crab/CRAB_2_10_4/python/crab.py -postMortem 1956 -c crab_HFForest_highPt_crab_pPb_5
+140328_102422: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 111 -c crab_HFForest_highPt_crab_pPb_1
+140328_102426: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 2125 -c crab_HFForest_highPt_crab_pPb_1
+140328_102429: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 1511-2544 -c crab_HFForest_highPt_crab_pPb_4
+140328_102435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 1953-2364 -c crab_HFForest_highPt_crab_pPb_5
+140328_102440: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 111 -c crab_HFForest_highPt_crab_pPb_1
+140328_102509: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 2125 -c crab_HFForest_highPt_crab_pPb_1
+140328_102540: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1511-2544 -c crab_HFForest_highPt_crab_pPb_4
+140328_102550: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1953-2364 -c crab_HFForest_highPt_crab_pPb_5
+140328_102632: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 602-1751 -c crab_HFForest_highPt_crab_pPb_5
+140328_105743: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1511-2010 -c crab_HFForest_highPt_crab_pPb_4
+140328_105751: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 2011-2510 -c crab_HFForest_highPt_crab_pPb_4
+140328_105755: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 2511-2544 -c crab_HFForest_highPt_crab_pPb_4
+140328_105912: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 602-1751 -c crab_HFForest_highPt_crab_pPb_5
+140328_105927: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1953-2364 -c crab_HFForest_highPt_crab_pPb_5
+140328_105939: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1511-2010 -c crab_HFForest_highPt_crab_pPb_4
+140328_110105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1511-2010 -c crab_HFForest_highPt_crab_pPb_4
+140328_110201: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 602-1000 -c crab_HFForest_highPt_crab_pPb_5
+140328_110203: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2011-2510 -c crab_HFForest_highPt_crab_pPb_4
+140328_110235: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1001-1500 -c crab_HFForest_highPt_crab_pPb_5
+140328_110301: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 2511-2544 -c crab_HFForest_highPt_crab_pPb_4
+140328_110410: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1501-1751 -c crab_HFForest_highPt_crab_pPb_5
+140328_144435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140328_153355: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140328_153545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140328_153629: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140328_153712: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140328_153801: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_153854: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140328_154021: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140328_154057: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140328_154101: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140328_154105: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140328_154109: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140328_154114: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140328_154249: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140328_154328: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140328_154333: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140328_154338: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140328_154344: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140329_122212: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140329_122418: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140329_122555: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140329_122634: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140329_122721: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140329_122806: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140329_122900: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140329_123237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140329_123352: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140329_123357: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140329_123508: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140329_123512: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140329_123517: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140329_123615: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140329_123641: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140329_123646: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140329_123714: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140329_123720: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140329_234755: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140329_235232: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140329_235433: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140329_235536: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140329_235643: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140329_235730: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140329_235826: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140329_235832: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140329_235906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140329_235919: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140330_000155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140330_000200: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140330_000206: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140330_000213: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140330_000246: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140330_000251: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140330_000321: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140330_000327: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_002134: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140331_002338: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140331_002534: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140331_002649: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140331_002755: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140331_002843: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_002936: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140331_002942: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140331_002949: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140331_003031: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140331_003204: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140331_003208: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_003214: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140331_003220: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140331_003225: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140331_003250: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140331_003321: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140331_003327: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_095859: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140331_100053: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140331_100347: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140331_100532: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140331_100642: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140331_100732: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_100826: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140331_100832: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140331_100838: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140331_100914: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140331_100959: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140331_101004: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_101009: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140331_101015: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140331_101020: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140331_101044: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140331_101116: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140331_101122: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_104413: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 1609-1610,1612,1615-1623,1625,1627-1630 -c crab_HFForest_highPt_crab_pPb_2
+140331_104421: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1609-1610,1612,1615-1623,1625,1627-1630 -c crab_HFForest_highPt_crab_pPb_2
+140331_105249: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 1609-1610,1612,1615-1623,1625,1627-1630 -c crab_HFForest_highPt_crab_pPb_2
+140331_105308: /grp/cms/crab/CRAB_2_10_4/python/crab.py -submit 1609-1610,1612,1615-1623,1625,1627-1630 -c crab_HFForest_highPt_crab_pPb_2
+140331_161043: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140331_161303: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140331_161412: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140331_161533: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140331_161642: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140331_161733: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_161829: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140331_161837: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140331_161841: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140331_161948: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140331_162027: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140331_162031: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140331_162037: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140331_162112: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140331_162117: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140331_162143: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140331_162218: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140331_162223: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140401_092658: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140401_092928: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140401_093150: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140401_093337: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140401_093456: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140401_093641: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140401_093733: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140401_093742: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140401_093749: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140401_093901: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140401_094111: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140401_094352: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140401_094358: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140401_094435: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140401_094458: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140401_094545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140401_094647: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140401_094729: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_101138: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140402_101409: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140402_101521: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140402_101625: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140402_101803: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140402_101941: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_102036: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140402_102135: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140402_102139: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140402_102143: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140402_102438: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140402_102805: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_102811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140402_102912: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140402_102918: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140402_102923: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140402_103022: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140402_103112: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_140047: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140402_140239: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140402_140349: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140402_140445: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140402_140615: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140402_140752: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_140846: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140402_140851: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140402_140856: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140402_140900: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140402_140925: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140402_140944: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_140949: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140402_140956: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140402_141002: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140402_141007: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140402_141013: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140402_141038: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_173531: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140402_173727: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140402_173921: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140402_174011: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140402_174137: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140402_174247: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_174339: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140402_174345: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140402_174352: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140402_174356: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140402_174420: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140402_174446: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140402_174451: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140402_174458: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140402_174503: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140402_174508: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140402_174513: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140402_174538: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140403_101224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140403_102251: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140403_102433: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140403_102601: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140403_102735: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140403_102843: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140403_102936: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140403_103017: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140403_103041: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140403_103122: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140403_103205: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140403_103209: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140403_103215: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140403_103252: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140403_103316: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140403_103340: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140403_103411: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140403_103417: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140403_171859: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140403_172052: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140403_172208: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140403_172325: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140403_172454: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140403_172605: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140403_172700: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140403_172705: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140403_172709: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140403_172717: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140403_172725: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140403_172729: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140403_172734: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140403_172740: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140403_172745: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140403_172807: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140403_172841: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140403_172847: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140404_005344: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140404_005533: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140404_005648: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140404_005810: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140404_005939: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140404_010119: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140404_010218: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140404_010224: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140404_010229: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140404_010238: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140404_010253: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140404_010301: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140404_010307: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140404_010313: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140404_010318: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140404_010340: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140404_010413: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140404_010441: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140404_101551: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140404_101811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140404_102031: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140404_102221: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140404_103644: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140404_112407: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140404_112504: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140404_112514: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140404_112522: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140404_112531: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140404_112611: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140404_112708: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140404_112713: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140404_112751: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140404_112818: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140404_112841: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140404_112911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140404_112956: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140406_172155: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140406_172431: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140406_172643: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140406_172826: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140406_173008: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140406_173214: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140406_173308: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140406_173315: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140406_173321: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140406_173332: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140406_173348: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140406_173438: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140406_173443: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140406_173521: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140406_173526: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140406_173552: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140406_173623: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140406_173651: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_095042: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140407_095244: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140407_095300: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140407_095442: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140407_095613: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140407_095907: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_100000: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140407_100010: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140407_100015: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140407_100023: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140407_100031: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140407_100043: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_100049: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140407_100125: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140407_100131: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140407_100213: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140407_100219: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140407_100248: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_100354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 2089 -c crab_HFForest_highPt_crab_pPb_4
+140407_100415: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 2089 -c crab_HFForest_highPt_crab_pPb_4
+140407_100508: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 126 -c crab_HFForest_highPt_crab_pPb_1
+140407_100518: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit 126 -c crab_HFForest_highPt_crab_pPb_1
+140407_100554: /grp/cms/crab/CRAB_2_10_4/python/crab.py -kill 126 -c crab_HFForest_highPt_crab_pPb_1
+140407_100933: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140407_101117: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140407_101133: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140407_101237: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140407_101354: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140407_101515: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_101608: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140407_101613: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140407_101617: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140407_101621: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140407_101626: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140407_101631: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_101636: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140407_101642: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140407_101647: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140407_101651: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140407_101657: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140407_101702: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_142157: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140407_142403: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140407_142420: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140407_142545: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140407_142703: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140407_142813: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_142906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140407_142912: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140407_142917: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140407_142922: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140407_142926: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140407_142931: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_142936: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140407_143009: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140407_143014: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140407_143020: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140407_143026: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140407_143031: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_154040: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
+140407_154245: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_2
+140407_154302: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_3
+140407_154314: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_4
+140407_154442: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_5
+140407_154650: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_154744: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_1
+140407_154751: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_2
+140407_154755: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_3
+140407_154759: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_4
+140407_154805: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_5
+140407_154811: /grp/cms/crab/CRAB_2_10_4/python/crab.py -get all -c crab_HFForest_highPt_crab_pPb_misaligned
+140407_154816: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_1
+140407_154850: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_2
+140407_154855: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_3
+140407_154900: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_4
+140407_154906: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_5
+140407_154911: /grp/cms/crab/CRAB_2_10_4/python/crab.py -resubmit bad -c crab_HFForest_highPt_crab_pPb_misaligned
+140408_170730: /grp/cms/crab/CRAB_2_10_4/python/crab.py -status -c crab_HFForest_highPt_crab_pPb_1
