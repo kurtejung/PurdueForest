@@ -185,11 +185,11 @@ icPu5CombinedSecondaryVertexMVABJetTags.tagInfos = cms.VInputTag(cms.InputTag("i
 icPu5SoftMuonTagInfos                = softMuonTagInfos.clone()
 icPu5SoftMuonTagInfos.jets           = cms.InputTag("iterativeConePu5CaloJets")
 icPu5SoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-icPu5SoftMuonBJetTags                = softMuonBJetTags.clone()
+icPu5SoftMuonBJetTags                = softPFMuonBJetTags.clone()
 icPu5SoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("icPu5SoftMuonTagInfos"))
-icPu5SoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+icPu5SoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 icPu5SoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("icPu5SoftMuonTagInfos"))
-icPu5SoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+icPu5SoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 icPu5SoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("icPu5SoftMuonTagInfos"))
 
 # ghost tracks
@@ -353,23 +353,23 @@ akPu3PFCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.I
 akPu3PFSoftMuonTagInfos                = softMuonTagInfos.clone()
 akPu3PFSoftMuonTagInfos.jets           = cms.InputTag("akPu3PFJets")
 akPu3PFSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-akPu3PFSoftMuonBJetTags                = softMuonBJetTags.clone()
+akPu3PFSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 akPu3PFSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu3PFSoftMuonTagInfos"))
-akPu3PFSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+akPu3PFSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 akPu3PFSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("akPu3PFSoftMuonTagInfos"))
-akPu3PFSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+akPu3PFSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 akPu3PFSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("akPu3PFSoftMuonTagInfos"))
 
-from RecoBTag.SoftLepton.negativeSoftLeptonByPtES_cfi import *
-from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
-from RecoBTag.SoftLepton.positiveSoftLeptonByPtES_cfi import *
-from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
+#from RecoBTag.SoftLepton.negativeSoftLeptonByPtES_cfi import *
+#from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
+#from RecoBTag.SoftLepton.positiveSoftLeptonByPtES_cfi import *
+#from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-akPu3PFPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+akPu3PFPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 akPu3PFPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu3PFSoftMuonTagInfos"))
 
 # soft muon negative taggers
-akPu3PFNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+akPu3PFNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 akPu3PFNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu3PFSoftMuonTagInfos"))
 
 # ghost tracks
@@ -546,21 +546,21 @@ akPu5PFCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.I
 akPu5PFSoftMuonTagInfos                = softMuonTagInfos.clone()
 akPu5PFSoftMuonTagInfos.jets           = cms.InputTag("akPu5PFJets")
 akPu5PFSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-akPu5PFSoftMuonBJetTags                = softMuonBJetTags.clone()
+akPu5PFSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 akPu5PFSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu5PFSoftMuonTagInfos"))
-akPu5PFSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+akPu5PFSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 akPu5PFSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("akPu5PFSoftMuonTagInfos"))
-akPu5PFSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+akPu5PFSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 akPu5PFSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("akPu5PFSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-akPu5PFPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+akPu5PFPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 akPu5PFPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu5PFSoftMuonTagInfos"))
 
 # soft muon negative taggers
-akPu5PFNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+akPu5PFNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 akPu5PFNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu5PFSoftMuonTagInfos"))
 
 # ghost tracks
@@ -738,21 +738,21 @@ ak5PFCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.Inp
 ak5PFSoftMuonTagInfos                = softMuonTagInfos.clone()
 ak5PFSoftMuonTagInfos.jets           = cms.InputTag("ak5PFJets")
 ak5PFSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-ak5PFSoftMuonBJetTags                = softMuonBJetTags.clone()
+ak5PFSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 ak5PFSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak5PFSoftMuonTagInfos"))
-ak5PFSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+ak5PFSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 ak5PFSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("ak5PFSoftMuonTagInfos"))
-ak5PFSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+ak5PFSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 ak5PFSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("ak5PFSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-ak5PFPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+ak5PFPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 ak5PFPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak5PFSoftMuonTagInfos"))
 
 # soft muon negative taggers
-ak5PFNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+ak5PFNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 ak5PFNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak5PFSoftMuonTagInfos"))
 
 # ghost tracks
@@ -931,21 +931,21 @@ ak3PFCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.Inp
 ak3PFSoftMuonTagInfos                = softMuonTagInfos.clone()
 ak3PFSoftMuonTagInfos.jets           = cms.InputTag("ak3PFJets")
 ak3PFSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-ak3PFSoftMuonBJetTags                = softMuonBJetTags.clone()
+ak3PFSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 ak3PFSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak3PFSoftMuonTagInfos"))
-ak3PFSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+ak3PFSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 ak3PFSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("ak3PFSoftMuonTagInfos"))
-ak3PFSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+ak3PFSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 ak3PFSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("ak3PFSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-ak3PFPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+ak3PFPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 ak3PFPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak3PFSoftMuonTagInfos"))
 
 # soft muon negative taggers
-ak3PFNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+ak3PFNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 ak3PFNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak3PFSoftMuonTagInfos"))
 
 # ghost tracks
@@ -1105,21 +1105,21 @@ akPu4PFCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.I
 akPu4PFSoftMuonTagInfos                = softMuonTagInfos.clone()
 akPu4PFSoftMuonTagInfos.jets           = cms.InputTag("akPu4PFJets")
 akPu4PFSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-akPu4PFSoftMuonBJetTags                = softMuonBJetTags.clone()
+akPu4PFSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 akPu4PFSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu4PFSoftMuonTagInfos"))
-akPu4PFSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+akPu4PFSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 akPu4PFSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("akPu4PFSoftMuonTagInfos"))
-akPu4PFSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+akPu4PFSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 akPu4PFSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("akPu4PFSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-akPu4PFPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+akPu4PFPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 akPu4PFPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu4PFSoftMuonTagInfos"))
 
 # soft muon negative taggers
-akPu4PFNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+akPu4PFNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 akPu4PFNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu4PFSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -1270,21 +1270,21 @@ ak4PFCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.Inp
 ak4PFSoftMuonTagInfos                = softMuonTagInfos.clone()
 ak4PFSoftMuonTagInfos.jets           = cms.InputTag("ak4PFJets")
 ak4PFSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-ak4PFSoftMuonBJetTags                = softMuonBJetTags.clone()
+ak4PFSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 ak4PFSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak4PFSoftMuonTagInfos"))
-ak4PFSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+ak4PFSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 ak4PFSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("ak4PFSoftMuonTagInfos"))
-ak4PFSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+ak4PFSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 ak4PFSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("ak4PFSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-ak4PFPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+ak4PFPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 ak4PFPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak4PFSoftMuonTagInfos"))
 
 # soft muon negative taggers
-ak4PFNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+ak4PFNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 ak4PFNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak4PFSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -1435,21 +1435,21 @@ ak3CaloCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.I
 ak3CaloSoftMuonTagInfos                = softMuonTagInfos.clone()
 ak3CaloSoftMuonTagInfos.jets           = cms.InputTag("ak3CaloJets")
 ak3CaloSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-ak3CaloSoftMuonBJetTags                = softMuonBJetTags.clone()
+ak3CaloSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 ak3CaloSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak3CaloSoftMuonTagInfos"))
-ak3CaloSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+ak3CaloSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 ak3CaloSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("ak3CaloSoftMuonTagInfos"))
-ak3CaloSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+ak3CaloSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 ak3CaloSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("ak3CaloSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-ak3CaloPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+ak3CaloPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 ak3CaloPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak3CaloSoftMuonTagInfos"))
 
 # soft muon negative taggers
-ak3CaloNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+ak3CaloNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 ak3CaloNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak3CaloSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -1600,21 +1600,21 @@ ak4CaloCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.I
 ak4CaloSoftMuonTagInfos                = softMuonTagInfos.clone()
 ak4CaloSoftMuonTagInfos.jets           = cms.InputTag("ak4CaloJets")
 ak4CaloSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-ak4CaloSoftMuonBJetTags                = softMuonBJetTags.clone()
+ak4CaloSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 ak4CaloSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak4CaloSoftMuonTagInfos"))
-ak4CaloSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+ak4CaloSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 ak4CaloSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("ak4CaloSoftMuonTagInfos"))
-ak4CaloSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+ak4CaloSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 ak4CaloSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("ak4CaloSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-ak4CaloPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+ak4CaloPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 ak4CaloPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak4CaloSoftMuonTagInfos"))
 
 # soft muon negative taggers
-ak4CaloNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+ak4CaloNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 ak4CaloNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak4CaloSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -1765,21 +1765,21 @@ ak5CaloCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms.I
 ak5CaloSoftMuonTagInfos                = softMuonTagInfos.clone()
 ak5CaloSoftMuonTagInfos.jets           = cms.InputTag("ak5CaloJets")
 ak5CaloSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-ak5CaloSoftMuonBJetTags                = softMuonBJetTags.clone()
+ak5CaloSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 ak5CaloSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak5CaloSoftMuonTagInfos"))
-ak5CaloSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+ak5CaloSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 ak5CaloSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("ak5CaloSoftMuonTagInfos"))
-ak5CaloSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+ak5CaloSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 ak5CaloSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("ak5CaloSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-ak5CaloPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+ak5CaloPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 ak5CaloPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak5CaloSoftMuonTagInfos"))
 
 # soft muon negative taggers
-ak5CaloNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+ak5CaloNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 ak5CaloNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("ak5CaloSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -1931,21 +1931,21 @@ akPu5CaloCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms
 akPu5CaloSoftMuonTagInfos                = softMuonTagInfos.clone()
 akPu5CaloSoftMuonTagInfos.jets           = cms.InputTag("akPu5CaloJets")
 akPu5CaloSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-akPu5CaloSoftMuonBJetTags                = softMuonBJetTags.clone()
+akPu5CaloSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 akPu5CaloSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu5CaloSoftMuonTagInfos"))
-akPu5CaloSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+akPu5CaloSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 akPu5CaloSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("akPu5CaloSoftMuonTagInfos"))
-akPu5CaloSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+akPu5CaloSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 akPu5CaloSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("akPu5CaloSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-akPu5CaloPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+akPu5CaloPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 akPu5CaloPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu5CaloSoftMuonTagInfos"))
 
 # soft muon negative taggers
-akPu5CaloNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+akPu5CaloNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 akPu5CaloNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu5CaloSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -2096,21 +2096,21 @@ akPu4CaloCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms
 akPu4CaloSoftMuonTagInfos                = softMuonTagInfos.clone()
 akPu4CaloSoftMuonTagInfos.jets           = cms.InputTag("akPu4CaloJets")
 akPu4CaloSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-akPu4CaloSoftMuonBJetTags                = softMuonBJetTags.clone()
+akPu4CaloSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 akPu4CaloSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu4CaloSoftMuonTagInfos"))
-akPu4CaloSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+akPu4CaloSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 akPu4CaloSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("akPu4CaloSoftMuonTagInfos"))
-akPu4CaloSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+akPu4CaloSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 akPu4CaloSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("akPu4CaloSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-akPu4CaloPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+akPu4CaloPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 akPu4CaloPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu4CaloSoftMuonTagInfos"))
 
 # soft muon negative taggers
-akPu4CaloNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+akPu4CaloNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 akPu4CaloNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu4CaloSoftMuonTagInfos"))
 
 # prepare a path running the new modules
@@ -2261,21 +2261,21 @@ akPu3CaloCombinedSecondaryVertexPositiveBJetTags.tagInfos    = cms.VInputTag(cms
 akPu3CaloSoftMuonTagInfos                = softMuonTagInfos.clone()
 akPu3CaloSoftMuonTagInfos.jets           = cms.InputTag("akPu3CaloJets")
 akPu3CaloSoftMuonTagInfos.primaryVertex  = cms.InputTag("offlinePrimaryVertices")
-akPu3CaloSoftMuonBJetTags                = softMuonBJetTags.clone()
+akPu3CaloSoftMuonBJetTags                = softPFMuonBJetTags.clone()
 akPu3CaloSoftMuonBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu3CaloSoftMuonTagInfos"))
-akPu3CaloSoftMuonByIP3dBJetTags          = softMuonByIP3dBJetTags.clone()
+akPu3CaloSoftMuonByIP3dBJetTags          = softPFMuonByIP3dBJetTags.clone()
 akPu3CaloSoftMuonByIP3dBJetTags.tagInfos = cms.VInputTag(cms.InputTag("akPu3CaloSoftMuonTagInfos"))
-akPu3CaloSoftMuonByPtBJetTags            = softMuonByPtBJetTags.clone()
+akPu3CaloSoftMuonByPtBJetTags            = softPFMuonByPtBJetTags.clone()
 akPu3CaloSoftMuonByPtBJetTags.tagInfos   = cms.VInputTag(cms.InputTag("akPu3CaloSoftMuonTagInfos"))
 
 #from RecoBTag.SoftLepton.negativeSoftMuonByPtBJetTags_cfi import *
 #from RecoBTag.SoftLepton.positiveSoftMuonByPtBJetTags_cfi import *
 
-akPu3CaloPositiveSoftMuonByPtBJetTags                = positiveSoftLeptonByPtBJetTags.clone()
+akPu3CaloPositiveSoftMuonByPtBJetTags                = positiveSoftPFMuonByPtBJetTags.clone()
 akPu3CaloPositiveSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu3CaloSoftMuonTagInfos"))
 
 # soft muon negative taggers
-akPu3CaloNegativeSoftMuonByPtBJetTags                = negativeSoftLeptonByPtBJetTags.clone()
+akPu3CaloNegativeSoftMuonByPtBJetTags                = negativeSoftPFMuonByPtBJetTags.clone()
 akPu3CaloNegativeSoftMuonByPtBJetTags.tagInfos       = cms.VInputTag(cms.InputTag("akPu3CaloSoftMuonTagInfos"))
 
 # prepare a path running the new modules

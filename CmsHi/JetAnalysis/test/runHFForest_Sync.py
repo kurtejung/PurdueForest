@@ -94,7 +94,7 @@ from HeavyIonsAnalysis.Configuration.CommonFunctions_cff import *
 if dopPb:
     print "Using pPb JECs!!"
     overrideGT_pPb5020(process)
-else if doPbp:
+elif doPbp:
     print "using Pbp JECs!!"
     overrideGT_Pbp5020(process)
 else:
